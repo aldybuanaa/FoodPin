@@ -1,0 +1,92 @@
+[
+  {
+    "Names": "Boja Eatery",
+    "Locations": "Jl. Sumatera",
+    "Tyoes": "Coffeeshop / Cafe",
+    "latitude": -6.916394133350804,
+    "longitude": 107.61340242619107,
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur",
+    "imageNames": "bojaeatery"
+  },
+  {
+    "Names": "Brewery Coffee",
+    "Locations": "Jl. Panaitan",
+    "Tyoes": "Tea House",
+    "latitude": -6.918374229234431,
+    "longitude": 107.61727586430283,
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur",
+    "imageNames": "brewery"
+  },
+  {
+    "Names": "Casadela Coffee",
+    "Locations": "Jl. Sumatera",
+    "Tyoes": "Cafe Shop",
+    "latitude": -6.916394133350804,
+    "longitude": 107.61340242619107,
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur",
+    "imageNames": "casadela"
+  },
+  {
+    "Names": "Dago Terrace",
+    "Locations": "",
+    "Tyoes": "Home Coffee",
+    "latitude": -6.890219195021147,
+    "longitude": 107.61263812470388,
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur",
+    "imageNames": "dagoterrace"
+  },
+  {
+    "Names": "Hola Koffie",
+    "Locations": "Jl. Braga",
+    "Tyoes": "Coffeeshop / Cafe",
+    "latitude": -6.916682793493255,
+    "longitude": 107.60902906888104,
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur",
+    "imageNames": "holakoffie"
+  },
+  {
+    "Names": "Imah Kai",
+    "Locations": "Jl. Ir. H. Juanda",
+    "Tyoes": "Tea House",
+    "latitude": -6.8631387430828585,
+    "longitude": 107.62503792655166,
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur",
+    "imageNames": "imahkai"
+  },
+  {
+    "Names": "Jiwan Kopi",
+    "Locations": "Jl. Ir. H. Juanda",
+    "Tyoes": "Cafe",
+    "latitude": -6.90079909278895,
+    "longitude": 107.61249876703307,
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur",
+    "imageNames": "jiwan"
+  },
+  {
+    "Names": "Kilogram Space",
+    "Locations": "Jl. Karang Tinggal",
+    "Tyoes": "Home Coffee",
+    "latitude": -6.885480500853848,
+    "longitude": 107.59553929771637,
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur",
+    "imageNames": "kilogram"
+  },
+  {
+    "Names": "Masagi Coffee",
+    "Locations": "Jl. Gunung Kareumbi",
+    "Tyoes": "Bakery / Cafe",
+    "latitude": -6.8687734950363275,
+    "longitude": 107.60649946888076,
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur",
+    "imageNames": "masagi"
+  },
+  {
+    "Names": "Nannys Pavillion",
+    "Locations": "Jl. Rancabentang",
+    "Tyoes": "Tea House / Cafe",
+    "latitude": -6.867545487603274,
+    "longitude": 107.61044142655162,
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur",
+    "imageNames": "nannys"
+  }
+]
