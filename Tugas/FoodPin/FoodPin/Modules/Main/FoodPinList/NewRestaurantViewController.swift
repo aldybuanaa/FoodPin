@@ -49,7 +49,7 @@ class NewRestaurantViewController: UITableViewController {
            let phone = phoneTextField.text, !phone.isEmpty,
            let desc = descTextView.text, !desc.isEmpty,
            let latitude = Double(latitudeTextField.text!), !desc.isEmpty,
-           let longitude = Double(latitudeTextField.text!), !desc.isEmpty{
+           let longitude = Double(longitudeTextField.text!), !desc.isEmpty{
             
             completion(image, name, type, address, phone, desc, latitude, longitude)
             
