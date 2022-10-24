@@ -36,7 +36,7 @@
 		041C8420290194CF005B271F /* Rating.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rating.swift; sourceTree = "<group>"; };
 		046B961129051436009BBCAC /* NewRestaurantViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewRestaurantViewController.swift; sourceTree = "<group>"; };
 		046B9613290518AF009BBCAC /* FoodPinViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodPinViewModel.swift; sourceTree = "<group>"; };
-		046B96152906093A009BBCAC /* ReviewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ReviewViewController.swift; path = "/Users/aldy/Documents/SEKOLAH/BelajarProgramming/IOS/Fazztrack/Coba Sendiri/Sesi 13/Tugas/FoodPin/FoodPin/Modules/Main/FoodPinDetail/ReviewViewController.swift"; sourceTree = "<absolute>"; };
+		046B96152906093A009BBCAC /* ReviewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReviewViewController.swift; sourceTree = "<group>"; };
 		04EDF49729024F7600E11E37 /* FoodPin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodPin.swift; sourceTree = "<group>"; };
 		04EDF49F2902749600E11E37 /* FoodPinDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodPinDetailViewController.swift; sourceTree = "<group>"; };
 		04EDF4A12902877D00E11E37 /* UIViewControllerExtensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIViewControllerExtensions.swift; sourceTree = "<group>"; };
