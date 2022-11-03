@@ -17,16 +17,18 @@ the following are some of the features of the FoodPin application made using Swi
 
 # Screenshot
 
- <img src="">
+ <img src="https://res.cloudinary.com/dhs3ddasg/image/upload/v1667470379/foodpin1_rz4hce.png">
+ <img src="https://res.cloudinary.com/dhs3ddasg/image/upload/v1667470379/foodpin2_hv7jnd.png">
+ <img src="https://res.cloudinary.com/dhs3ddasg/image/upload/v1667470379/foodpin3_a8usgr.png">
+ <img src="https://res.cloudinary.com/dhs3ddasg/image/upload/v1667470427/foodpin4_bfnsir.png">
 
-# Tech Stack Yang Digunakan
+# Tech Stack
 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
-### Instalasi:
+### Instalation:
 
-- Double click pada file ``
-- Pilih iOS simulator kesukaanmu and you are ready to go
-                  |
+- Double click file `FoodPin.xcodeproj`
+- Choose iOS simulator and you are ready to go
 
 <!-- </> with 💛 by readMD (https://readmd.itsvg.in) -->
