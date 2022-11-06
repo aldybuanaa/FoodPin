@@ -14,6 +14,8 @@ the following are some of the features of the FoodPin application made using Swi
 - list location using Table View 
 - Detail Location with map view
 - Add new location
+- Add image from gallery
+- Add image from camera
 
 # Screenshot
 
