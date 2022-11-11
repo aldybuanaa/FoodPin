@@ -1,5 +1,5 @@
 <div align="center">
-      <h1> <img src="https://res.cloudinary.com/dhs3ddasg/image/upload/v1667399686/1024_hhkm4n.png" width="80px"><br/>FoodPin</h1>
+      <h1> <img src="https://res.cloudinary.com/dhs3ddasg/image/upload/v1667399686/Github/FoodPin/1024_hhkm4n.png" width="80px"><br/>FoodPin</h1>
      </div>
 <p align="center"> <a href="https://aldybuana.showwcase.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Website-EA4C89?style=normal&logo=dribbble&logoColor=white" style="vertical-align:center" /></a> <a href="https://twitter.com/afrialdyasyurab" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-1DA1F2?style=normal&logo=twitter&logoColor=white" style="vertical-align:center" /></a> <a href="https://www.linkedin.com/in/afrialdyasyurab/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=normal&logo=linkedin&logoColor=white" style="vertical-align:center" /></a> </p>
 
@@ -19,10 +19,10 @@ the following are some of the features of the FoodPin application made using Swi
 
 # Screenshot
 
- <img src="https://res.cloudinary.com/dhs3ddasg/image/upload/v1667470379/foodpin1_rz4hce.png">
- <img src="https://res.cloudinary.com/dhs3ddasg/image/upload/v1667470379/foodpin2_hv7jnd.png">
- <img src="https://res.cloudinary.com/dhs3ddasg/image/upload/v1667470379/foodpin3_a8usgr.png">
- <img src="https://res.cloudinary.com/dhs3ddasg/image/upload/v1667470427/foodpin4_bfnsir.png">
+ <img src="https://res.cloudinary.com/dhs3ddasg/image/upload/v1667470379/Github/FoodPin/foodpin1_rz4hce.png">
+ <img src="https://res.cloudinary.com/dhs3ddasg/image/upload/v1667470401/Github/FoodPin/foodpin2_e2vwhw.png">
+ <img src="https://res.cloudinary.com/dhs3ddasg/image/upload/v1667470379/Github/FoodPin/foodpin3_a8usgr.png">
+ <img src="https://res.cloudinary.com/dhs3ddasg/image/upload/v1667470427/Github/FoodPin/foodpin4_bfnsir.png">
 
 # Tech Stack
 
